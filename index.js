@@ -4,4 +4,4 @@ const pets = require('./library/data/pets.js');
 console.log(owner);
 console.log(pets);
 
-process.exit();
+process.exit(0);
