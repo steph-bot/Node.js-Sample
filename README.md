@@ -2,10 +2,9 @@
 
 To do: 
 
-- find test command script
-- doublecheck... should data folder be within lib or separate?
+- write some unit tests
+- should data folder be within lib or separate?
 - write some easy scripts
-- --- npm run debug
-- --- npm run test
+- --- linting script: capture all js files
 
-- learn how to seed a database with these files
+- set up to seed a database with these files

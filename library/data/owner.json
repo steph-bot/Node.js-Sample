@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "firstName": "Stephanie",
+    "phoneNumber": "010-111-2222"
+  },
+  {
+    "ID": 2,
+    "firstName": "John",
+    "phoneNumber": "313-444-5555"
+  },
+  {
+    "ID": 3,
+    "firstName": "Elon",
+    "phoneNumber": "616-777-8888"
+  },
+  {
+    "ID": 4,
+    "firstName": "Ada",
+    "phoneNumber": "919-111-4444"
+  }
+]
